@@ -11,3 +11,12 @@ This is an application using python Dash and Plotly packages to show an interact
 
 ### This is presenting the SEDI - Social Economic Deprivation Index in a range of 2014 to 2018
 <img src="https://github.com/Wenhuan2516/MEDI-and-SEDI-Dash-Application/blob/main/SEDI-maps.png" alt="image" title="sedi">
+
+### This is presenting the suicide rate from 2014 to 2018
+<img src="https://github.com/Wenhuan2516/MEDI-and-SEDI-Dash-Application/blob/main/suicide-maps.png" alt="image" title="suicide">
+
+### This is presenting the index that combined MEDI and SEDI from 2014 to 2018
+<img src="https://github.com/Wenhuan2516/MEDI-and-SEDI-Dash-Application/blob/main/medi+sedi.png" alt="image" title="sedi">
+
+### This is presenting the index that combined MEDI and SVI from 2014 to 2018
+<img src="https://github.com/Wenhuan2516/MEDI-and-SEDI-Dash-Application/blob/main/medi+svi.png" alt="image" title="sedi">
